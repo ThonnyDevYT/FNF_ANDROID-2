@@ -1,7 +1,7 @@
 package;
 
 #if android
-import android.Permissions;
+import requestPermission;
 import android.content.Context;
 import android.os.Build;
 import android.widget.Toast;
